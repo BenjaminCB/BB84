@@ -5,6 +5,14 @@ A jupyter notebook containing a BB84 implementation for my QIC course mini-proje
 ## Install venv
 First, you need to install the venv module using pip. Open your terminal or command prompt and run the following command:
 
+**Windows**:
+
+```
+python -m pip install virtualenv
+```
+
+**MacOS/Linux**:
+
 ```
 pip install virtualenv
 ```
