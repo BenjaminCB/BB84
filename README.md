@@ -58,6 +58,14 @@ Once activated, your command prompt will change to show the name of the active e
 # Install Packages from requirements.txt
 To install the packages listed in requirements.txt, run the following command:
 
+**Windows**: 
+
+```
+python -m pip install -r requirements.txt
+```
+
+**MacOS/Linux**:
+
 ```
 pip install -r requirements.txt
 ```
